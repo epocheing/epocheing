@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Inuk%20Song&fontSize=80&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Inuk%20Song&fontSize=80&animation=fadeIn&fontAlignY=45)
 
 <p align="center">
   <Strong>📧Email📧</Strong>

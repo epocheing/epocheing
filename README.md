@@ -2,17 +2,22 @@
 
 <p align="center">
   <Strong>📧Email📧</Strong>
-  </br>songin4229@naver.com</br>
+  </br>songin4229@naver.com
+  </br>songin4229@gmail.com</br>
 </p>
 
 </br>
 
 <p align="center" display="inline-block">
   <Strong>⚒️Tech Stack⚒️</Strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black">
-   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=black">
-   <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=black">
+  <img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=black"><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=black">
+
 </p>
 
 </br>

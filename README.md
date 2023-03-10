@@ -2,8 +2,7 @@
 
 <p align="center">
   <Strong>📧Email📧</Strong>
-  </br>songin4229@naver.com
-  </br>songin4229@gmail.com</br>
+  </br>songin4229@pm.me</br>
 </p>
 
 </br>

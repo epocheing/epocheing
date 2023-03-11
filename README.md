@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a3cca2&height=250&section=header&text=Inuk%20Song&fontSize=80&animation=fadeIn&fontAlignY=45)
 
-<p align="center">
-  <Strong>📧Email📧</Strong>
-  </br>songin4229@pm.me</br>
-</p>
-
 </br>
 
 <p align="center" display="inline-block">

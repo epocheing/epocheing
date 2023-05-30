@@ -17,11 +17,11 @@
 
 <div align="center">
 
-![SsongIU's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsongIU&show_icons=true&theme=swift)
+![epocheing's GitHub stats](https://github-readme-stats.vercel.app/api?username=epocheing&show_icons=true&theme=swift)
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SsongIU&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=epocheing&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
